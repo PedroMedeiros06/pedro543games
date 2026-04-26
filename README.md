@@ -1,6 +1,6 @@
 ### Seja bem vindo ao meu perfi!
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro543games&show_icons=true&theme=dark)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroMedeiros06&show_icons=true&theme=dark)
 
 ### Linguagens que uso
 <!-- <div style="display: inline_block">
